@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kalai-b-abb7a0119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalai-b-abb7a0119" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/kalaibharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/kalaibharath" height="30" width="40" /></a>
-<a href="https://instagram.com/heartless_k_a_l_a_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heartless_k_a_l_a_i" height="30" width="40" /></a>
+<a href="https://instagram.com/bharath.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharath.jsx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
